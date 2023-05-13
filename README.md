@@ -1,4 +1,4 @@
-
+![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Image_Resizer&width=1200&height=200)
 
 # The image resizer code takes as input an image file, along with the desired dimensions for the output image. It first reads the input image using a library such as Pillow or OpenCV. Then, it applies an interpolation algorithm to resize the image to the desired dimensions. The interpolation algorithm can be chosen based on factors such as the input image size, the desired output size, and the speed/quality tradeoff.
 
